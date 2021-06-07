@@ -6,6 +6,7 @@ function App() {
     <div >
      <h1>Yo</h1>
      <div>Supf</div>
+     <div>Yo</div>
     </div>
   );
 }
